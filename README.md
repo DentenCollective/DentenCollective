@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @DentenCollective
-- 👀 I’m interested in using GitHub to help with my Unity games.
-- 🌱 I’m currently learning JavaScript, I already know C#
-- 💞️ I’m looking to figure out wasd movment code on JavaScript. 
+stay goofy
